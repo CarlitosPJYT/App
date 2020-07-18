@@ -1,0 +1,25 @@
+{
+     "products" : [
+          {
+               "id" : 1,
+               "name" : "bed",
+               "price" : 90,
+               "description" : "bedroom",
+               "categoryId" : 1
+          },
+          {
+               "id" : 2,
+               "name" : "bath",
+               "price" : 3000,
+               "description" : "bathroom",
+               "categoryId" : 1
+          }
+     ],
+     "categories" : [
+          {
+               "id" : "1",
+               "name" : "house",
+               "description" : "room"
+          }
+     ]
+}
